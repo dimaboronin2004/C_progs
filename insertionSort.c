@@ -1,6 +1,6 @@
-#include "insertionSort.h"
 
-void insertionSort(int len, int *arr) {
+
+void insertionSort(int *len, int *arr) {
 
     int itemToInsert, j;
 
